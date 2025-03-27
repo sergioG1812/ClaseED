@@ -3,15 +3,15 @@
 Carta::Carta(Color c, int v) : color(c), valor(v) {}
 
 void Carta::mostrar() const {
-    string colorString;
+    string colorcito;
     if (color == Amarillo)
-        colorString = "Amarillo";
+        colorcito = "Amarillo";
     else if (color == Azul)
-        colorString = "Azul";
+        colorcito = "Azul";
     else if (color == Rojo)
-        colorString = "Rojo";
+        colorcito = "Rojo";
     else if (color == Negro)
-        colorString = "Negro";
+        colorcito = "Negro";
 
-    cout << "[" << colorString << " " << valor << "]";
+    cout << "[" << colorcito << " " << valor << "]";
 }
