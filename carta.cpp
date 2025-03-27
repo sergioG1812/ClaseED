@@ -1,17 +1,17 @@
 #include "carta.h"
-
-std::string colorToString(Color color) {
-    switch(color) {
-        case Color::Amarillo: return "Amarillo";
-        case Color::Azul:     return "Azul";
-        case Color::Rojo:     return "Rojo";
-        case Color::Negro:    return "Negro";
-    }
-    return "";
-}
-
+#include <string>
 Carta::Carta(Color c, int v) : color(c), valor(v) {}
 
 void Carta::mostrar() const {
-    std::cout << "[" << colorToString(color) << " " << valor << "]";
+    string colorString;
+    if (color == Amarillo)
+        colorString = "Amarillo";
+    else if (color == Azul)
+        colorString = "Azul";
+    else if (color == Rojo)
+        colorString = "Rojo";
+    else if (color == Negro)
+        colorString = "Negro";
+
+    cout << "[" << colorString << " " << valor << "]";
 }
