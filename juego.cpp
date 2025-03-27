@@ -131,6 +131,6 @@ void Juego::jugar() {
 
 	for ( auto &jugador : jugadores) {
 
-		cout << jugador.nombre << " ganC3 " << jugador.cartasGanadas.size() << " cartas." << endl;
+		cout << jugador.nombre << " gano " << jugador.cartasGanadas.size() << " cartas." << endl;
 	}
 }
