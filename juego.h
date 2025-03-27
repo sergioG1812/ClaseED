@@ -1,6 +1,5 @@
 #ifndef JUEGO_H
 #define JUEGO_H
-
 #include "jugador.h"
 #include <vector>
 #include <string>
