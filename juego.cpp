@@ -22,7 +22,7 @@ Juego::Juego( vector<string>& nombresJugadores) {
 		}
 	}
 
-	srand(static_cast<unsigned>(time(0)));
+	srand((time(NULL)));
 
 	random_shuffle(mazo.begin(), mazo.end());
 
