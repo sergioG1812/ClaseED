@@ -1,3 +1,5 @@
+# reglas de juego
+
 Juego de cartas para proyecto de la clase Estructura de Datos El juego consiste en que x numero de jugadores (a definición del programador)
 obtienen unas cartas al azar de 4 colores diferentes y numeración del 1 al 9, el jugador 1 inicia la ronda tirando de su mano una carta
 cualquiera, al momento de tirar la carta los demás jugadores tienen que tirar una carta del mismo color, gana la ronda el jugador que tire la
