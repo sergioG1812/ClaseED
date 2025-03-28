@@ -10,11 +10,16 @@ el juego termina cuando todos los jugadores se quedan sin cartas.
   ![image](https://github.com/user-attachments/assets/3dcffea3-5462-4b81-82b1-901663fc78ae)
 2)Dar click donde dice Run en la parte superior:
 ![image](https://github.com/user-attachments/assets/05e39ac1-0cef-4010-ab1c-1bddc0845791)
+
 3)Empezar a jugar
-![image](https://github.com/user-attachments/assets/83ca2ca0-5356-442a-8178-d70ab12f3be0)
+
+![image](https://github.com/user-attachments/assets/94855d71-c0f7-4a72-8c54-b7bce9eb7efa)
+
 
 (Aclaracion): Para seleccionar una carta a jugar, debes darle a la opcion que aparece numeradas en primera parte, por ejemplo,
 para jugar la carta azul 9, oprimir la opcion 9.
 
--)Diagrama de clases
+-)Diagrama de clases:
+
 ![Uploading image.png…]()
+
