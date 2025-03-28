@@ -13,7 +13,8 @@ el juego termina cuando todos los jugadores se quedan sin cartas.
 
 3)Empezar a jugar
 
-![image](https://github.com/user-attachments/assets/94855d71-c0f7-4a72-8c54-b7bce9eb7efa)
+![image](https://github.com/user-attachments/assets/d7a606ec-4865-47a9-9d65-4486a98aadbf)
+
 
 
 (Aclaracion): Para seleccionar una carta a jugar, debes darle a la opcion que aparece numeradas en primera parte, por ejemplo,
@@ -21,5 +22,4 @@ para jugar la carta azul 9, oprimir la opcion 9.
 
 -)Diagrama de clases:
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/865a6cee-3a9d-4ee8-ad34-9edcc2e38207)
