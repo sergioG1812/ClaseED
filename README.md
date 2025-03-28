@@ -6,11 +6,15 @@ es de diferente color, el jugador que gane la ronda se lleva las cartas pero no 
 el juego termina cuando todos los jugadores se quedan sin cartas.
 
 -)Como jugar:
-1) copiar todas las clases con sus distintivos en online c++
+1) copiar todas las clases con sus distintivos en online c++, link: https://www.onlinegdb.com/online_c++_compiler
   ![image](https://github.com/user-attachments/assets/3dcffea3-5462-4b81-82b1-901663fc78ae)
-2)Dar click donde dice Run:
+2)Dar click donde dice Run en la parte superior:
 ![image](https://github.com/user-attachments/assets/05e39ac1-0cef-4010-ab1c-1bddc0845791)
 3)Empezar a jugar
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/83ca2ca0-5356-442a-8178-d70ab12f3be0)
+
 (Aclaracion): Para seleccionar una carta a jugar, debes darle a la opcion que aparece numeradas en primera parte, por ejemplo,
 para jugar la carta azul 9, oprimir la opcion 9.
+
+-)Diagrama de clases
+![Uploading image.png…]()
