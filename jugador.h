@@ -5,7 +5,6 @@
 #include <vector>
 #include <string>
 using namespace std;
-
 class Jugador {
 public:
     string nombre;
@@ -17,5 +16,4 @@ public:
     Carta jugarCarta();
     void ganarCartas(const vector<Carta>& cartas);
 };
-
 #endif
