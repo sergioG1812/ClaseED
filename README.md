@@ -18,7 +18,7 @@ el juego termina cuando todos los jugadores se quedan sin cartas.
 
 
 (Aclaracion): Para seleccionar una carta a jugar, debes darle a la opcion que aparece numeradas en primera parte, por ejemplo,
-para jugar la carta azul 9, oprimir la opcion 9.
+para jugar la carta azul 9, oprimir la opcion 6.
 
 -)Diagrama de clases:
 
